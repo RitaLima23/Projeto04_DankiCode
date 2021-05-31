@@ -8,6 +8,8 @@ Tecnologias utilizadas:
 - HTML
 - CSS
 
+Código do projeto na pasta: master
+
 ![#4danki_vendadeprodutosdigitais](https://user-images.githubusercontent.com/45838303/120234745-fc2ca300-c22e-11eb-97b0-fe5691834e9d.png)
 ![#4danki_vendadeprodutosdigitais2](https://user-images.githubusercontent.com/45838303/120234757-ffc02a00-c22e-11eb-9fc1-12dd880e93bb.png)
 ![#4danki_vendadeprodutosdigitais3](https://user-images.githubusercontent.com/45838303/120234764-02228400-c22f-11eb-80d1-756b354e9682.png)
